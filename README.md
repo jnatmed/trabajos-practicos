@@ -32,7 +32,10 @@ Como se puede observar, después de nombre del atributo se hace necesario inclui
 
 Es un lenguaje de marcas que permite desarrollar páginas web que sean accesibles a través de la Word wide wide. A partir de este lenguaje, se pueden desarrollar documentos que, entre otras cosas, contengan hipertexto, con enlaces (links) que permiten direccionar al usuario hacia otros recursos de la web.
 	
-<h2>2.b)</h2>
+<h2>2.b)¿Que conjunto minimo de tags debe contener un documento elaborado en ese lenguaje? Describe brevemente su utilidad</h2>
+
+Todo documento se descompone de una seccion llamado cuerpo, y otro llamado cabacera. El cuerpo, comprendido entre las etiquetas ```html <body> y </body> ```, es el lugar donde se describe el contenido del documento presentado al usuario de diferentes momentos, en el caso mas comun mediante un navegador web visual.
+La seccion de cabecera, encerrado entre las etiquetas ```html <head> </head> ```, contiene informacion acerca del propio documento, constituyendo por tanto un conjunto de metadatos. A excepcion del titulo del documento (encerrado entre las etiquetas ```html <title> </title> ```), el marcado de esta seccion no tiene representacion alguna para quien consultado el documento, sino que es explotado por el propio navegador o robots de buscadores que rastrean la web indexando sus muchos recursos. Parte de la informacion contenido en esta seccion se describe a traves de las etiquetas META (o META TAGS), que suelen contener informacion acerca del documento, como son sus palabras clave, una descripcion resumida de su contenido, informacion de autoria, asi como atras que describe si el contenido caduca, si puede ser almacenado temporalmente por dispositivos intermedios, etc.
 
 <h1>3)</h1> 
 <h2>¿Cuál es la utilidad e importancia de los enlaces o link entre paginas?</h2>
@@ -50,35 +53,35 @@ Es un lenguaje de marcas que permite desarrollar páginas web que sean accesible
 
 Bibliografia
 
-libro: Lenguaje de Marcas y Sistemas de Gestion de la Informacion
+<h5>libro: Lenguaje de Marcas y Sistemas de Gestion de la Informacion
 autor: javier s. surdo
 Editorial: RA-Ma
 Año: 2014
 Origen: Madrid (España)
-https://books.google.com.ar/books?id=VI-fDwAAQBAJ&lpg=PA10&dq=lenguajes%20de%20marcado&pg=PA10#v=onepage&q=lenguajes%20de%20marcado&f=false
+https://books.google.com.ar/books?id=VI-fDwAAQBAJ&lpg=PA10&dq=lenguajes%20de%20marcado&pg=PA10#v=onepage&q=lenguajes%20de%20marcado&f=false</h5>
 
-libro: Elaboración de documentos web mediante lenguajes de marcas. IFCD0210
+<h5>libro: Elaboración de documentos web mediante lenguajes de marcas. IFCD0210
 autor: ramon guerrero perez
 Editorial: IC Editorial
 Año: 2014
-https://books.google.com.ar/books?id=Kz51CQAAQBAJ&lpg=PP1&hl=es&pg=PT1#v=onepage&q&f=false
+https://books.google.com.ar/books?id=Kz51CQAAQBAJ&lpg=PP1&hl=es&pg=PT1#v=onepage&q&f=false</h5>
 
-libro: Creación de páginas web con el lenguaje de marcas. IFCD0110
+<h5>libro: Creación de páginas web con el lenguaje de marcas. IFCD0110
 Autor: Ramon Guerrero perez
-https://books.google.com.ar/books?id=0E4bCAAAQBAJ&lpg=PP1&hl=es&pg=PT18#v=onepage&q&f=false
+https://books.google.com.ar/books?id=0E4bCAAAQBAJ&lpg=PP1&hl=es&pg=PT18#v=onepage&q&f=false</h5>
 
-libro: Analitica web:medir para triunfar, "como definir una estrategia digital basado en datos"
+<h5>libro: Analitica web:medir para triunfar, "como definir una estrategia digital basado en datos"
 autor: Sergio Maldonado
-https://books.google.com.ar/books?id=27h3ClYpEM0C&lpg=PA68&dq=conjunto%20minimo%20tags%20html&pg=PA69#v=onepage&q=enlaces&f=false 
+https://books.google.com.ar/books?id=27h3ClYpEM0C&lpg=PA68&dq=conjunto%20minimo%20tags%20html&pg=PA69#v=onepage&q=enlaces&f=false</h5>
 
-Pagina web:
+<h5>Pagina web:
 http://www.hipertexto.info/documentos/lenguajes_h.htm
 Publicacion: Lenguajes Hipertextuales, hipertexto: El nuevo concepto de documento en la cultura de la imagen
 Autor: Maria Jesus Lamarca Lapuente
-Tesis doctoral. Universidad Complutense de Madrid
+Tesis doctoral. Universidad Complutense de Madrid</h5>
 
-Libro: El gran libro de HTML5, CSS3 y Javascript 
+<h5>Libro: El gran libro de HTML5, CSS3 y Javascript 
 Autor:  Juan Diego Gauchat 
 Editorial: Marcombo
 Año: 2012
-https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf
+https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf</h5>
