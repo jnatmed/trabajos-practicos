@@ -80,8 +80,8 @@ El atributo agrega controles de audio, como reproducción, pausa y volumen. El e
 	  <source src="movie.mp4" type="video/mp4">
 	  <source src="movie.ogg" type="video/ogg">
 	Your browser does not support the video tag.
-</video>
-```
+	</video>
+````
 El atributo agrega controles de video, como reproducción, pausa y volumen. Es una buena idea incluir siempre las propiedades width y height. Si no se configuran alto y ancho, la página puede parpadear mientras se carga el video. El elemento `<source>` le permite especificar archivos de video alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido.
 El texto entre las etiquetas `<video>` y `</video>` sólo se mostrarán en los navegadores que no soportan el elemento `<video>`.
 
