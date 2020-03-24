@@ -55,12 +55,19 @@ En funcion del destino de los enlaces, son agrupados del siguiente modo:
     <li>Enlaces con direcciones de correo: para crear un mensaje dirigido a una direccion</li>
     <li>Enlaces con archivos: para que los usuarios puedan hacer download de ficheros</li>
 </ul>
-<h2>¿Qué importancia tiene esto último?</h2>
+<h2>3.d) ¿Qué importancia tiene esto último?</h2>
 
+la importancia radica en la diversidad al tipo de recurso accedido. No solo permite que se acceda a un lugar especifico de la pagina en la que se navega, al activar un enlace se puede dar lugar a una gran variedad de resultados, como son: trasladarse a un nuevo tema; mostrar una referencia, una definición o una anotación; presentar un esquema o una ilustración; ver un índice o una tabla de datos; activar un sonido o un vídeo, etc.
 
+<h1>4) ¿Cómo funcionan los tags audio y video?</h1>
 
+<h1>5</h1>
 
+<h2>5.a) ¿Qué es el Rendering Engine de un Browser?</h2>
 
+<h2>¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)?</h2>
+
+<h2>¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?</h2>
 
 Bibliografia
 
