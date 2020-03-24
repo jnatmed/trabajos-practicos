@@ -61,7 +61,9 @@ la importancia radica en la diversidad al tipo de recurso accedido. No solo perm
 
 <h1>4) ¿Cómo funcionan los tags audio y video?</h1>
 
-Antes de HTML5, los archivos de audio solo se podían reproducir en un navegador con un complemento (como flash). El <audio>elemento HTML5 especifica una forma estándar de incrustar audio en una página web.
+<h3>Tag audio</h3>
+
+Antes de HTML5, los archivos de audio solo se podían reproducir en un navegador con un complemento (como flash). El elemento <audio> en HTML5, especifica una forma estándar de incrustar audio en una página web.
 ```html
 	<audio controls>
 	  <source src="horse.ogg" type="audio/ogg">
@@ -69,12 +71,19 @@ Antes de HTML5, los archivos de audio solo se podían reproducir en un navegador
 	Your browser does not support the audio element.
 	</audio>
 ```
-El controlsatributo agrega controles de audio, como reproducción, pausa y volumen.
+El atributo agrega controles de audio, como reproducción, pausa y volumen. El elemento `<source>` le permite especificar archivos de audio alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido. El texto entre las etiquetas `<audio>` y `</audio>` sólo se mostrará en los navegadores que no soportan el elemento `<audio>`.
 
-El `<source>` elemento le permite especificar archivos de audio alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido.
+<h3>Tag Video</h3>
 
-El texto entre el `<audio>` y `</audio>` etiquetas sólo se mostrará en los navegadores que no soportan el `<audio>` elemento.
-
+````html
+	<video width="320" height="240" controls>
+	  <source src="movie.mp4" type="video/mp4">
+	  <source src="movie.ogg" type="video/ogg">
+	Your browser does not support the video tag.
+</video>
+```
+El atributo agrega controles de video, como reproducción, pausa y volumen. Es una buena idea incluir siempre las propiedades width y height. Si no se configuran alto y ancho, la página puede parpadear mientras se carga el video. El elemento `<source>` le permite especificar archivos de video alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido.
+El texto entre las etiquetas `<video>` y `</video>` sólo se mostrarán en los navegadores que no soportan el elemento `<video>`.
 
 <h1>5)</h1>
 
@@ -87,6 +96,7 @@ El texto entre el `<audio>` y `</audio>` etiquetas sólo se mostrará en los nav
 Bibliografia
 
 <h5>https://www.w3schools.com/html/html5_audio.asp</h5>
+<h5>https://www.w3schools.com/html/html5_video.asp</h5>
 
 <h5>libro: Lenguaje de Marcas y Sistemas de Gestion de la Informacion
 autor: javier s. surdo
