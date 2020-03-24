@@ -61,6 +61,21 @@ la importancia radica en la diversidad al tipo de recurso accedido. No solo perm
 
 <h1>4) ¿Cómo funcionan los tags audio y video?</h1>
 
+Antes de HTML5, los archivos de audio solo se podían reproducir en un navegador con un complemento (como flash). El <audio>elemento HTML5 especifica una forma estándar de incrustar audio en una página web.
+```html
+	<audio controls>
+	  <source src="horse.ogg" type="audio/ogg">
+	  <source src="horse.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+	</audio>
+```
+El controlsatributo agrega controles de audio, como reproducción, pausa y volumen.
+
+El `<source>` elemento le permite especificar archivos de audio alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido.
+
+El texto entre el `<audio>` y `</audio>` etiquetas sólo se mostrará en los navegadores que no soportan el `<audio>` elemento.
+
+
 <h1>5)</h1>
 
 <h2>5.a) ¿Qué es el Rendering Engine de un Browser?</h2>
@@ -70,6 +85,8 @@ la importancia radica en la diversidad al tipo de recurso accedido. No solo perm
 <h2>5.c) ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?</h2>
 
 Bibliografia
+
+<h5>https://www.w3schools.com/html/html5_audio.asp</h5>
 
 <h5>libro: Lenguaje de Marcas y Sistemas de Gestion de la Informacion
 autor: javier s. surdo
