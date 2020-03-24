@@ -44,6 +44,8 @@ La utilidad de los enlaces es conectar los distintos recursos de la web, y que e
 
 <h2>3.b) ¿Qué significa hipertexto?</h2>
 
+Es cualquier elemento de un documento web cuyo click esta asociado a un recurso de la web. Una vez que el usuario accede, el navegador cargara la direccion o URL que dicho enlace tenga asociada. 
+
 <h2>3.c) ¿Un link solo puede apuntar a otra página?</h2>
 
 En funcion del destino de los enlaces, son agrupados del siguiente modo:
@@ -89,9 +91,45 @@ El texto entre las etiquetas `<video>` y `</video>` sólo se mostrarán en los n
 
 <h2>5.a) ¿Qué es el Rendering Engine de un Browser?</h2>
 
+Un motor de navegador web (motor de renderizado) es software que toma contenido marcado (como HTML, XML, archivo de imagenes, etc.) e informacion de formateo (como CSS, XSL, etc.) y posteriormente visualiza el contenido ya formateado en la pantalla. El motor "pinta" en el area de contenido de una ventana, la cual es mostrada en una pantalla.
+
+<ul>
+	<li>a) Los motores de renderizado es lo que usan  los navegadores web, clientes de correo electronico, u otras aplicaciones que deban mostrar contenidos web.</li>
+</ul>
+	<li>b) Los interpretes de javascript o motor de javascript, que aunque cada motor de navegador suele tener su propio interprete javascript no son realmente lo mismo. Mientras que la funcion del motor del navegador es renderizar y pintar la parte grafica de la web, el motor de javascript es el inteprete del codigo y quien ejecuta un script en funcion de unas instrucciones.</li>
+
 <h2>5.b) ¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)?</h2>
 
+<table border="2">
+    <tr>
+        <td>Browser</td>
+        <td>Motor Grafico</td>
+    </tr>
+    <tr>
+        <td>Google Chrome</td>
+        <td>Blink, Gecko</td>
+    </tr>
+    <tr>
+        <td>Firefox, Mozilla</td>
+        <td>Gecko, Servo</td>
+    </tr>
+    <tr>
+        <td>Safari</td>
+        <td>WebKit</td>
+    </tr>
+    <tr>
+        <td>IE-Edge</td>
+        <td>Blink</td>
+    </tr>
+    <tr>
+        <td>Opera</td>
+        <td>Blink</td>
+    </tr>
+</table>
+
 <h2>5.c) ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?</h2>
+
+
 
 Bibliografia
 
