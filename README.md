@@ -38,12 +38,23 @@ Todo documento se descompone de una seccion llamado cuerpo, y otro llamado cabac
 La seccion de cabecera, encerrado entre las etiquetas ```html <head> </head> ```, contiene informacion acerca del propio documento, constituyendo por tanto un conjunto de metadatos. A excepcion del titulo del documento (encerrado entre las etiquetas ```html <title> </title> ```), el marcado de esta seccion no tiene representacion alguna para quien consultado el documento, sino que es explotado por el propio navegador o robots de buscadores que rastrean la web indexando sus muchos recursos. Parte de la informacion contenido en esta seccion se describe a traves de las etiquetas META (o META TAGS), que suelen contener informacion acerca del documento, como son sus palabras clave, una descripcion resumida de su contenido, informacion de autoria, asi como atras que describe si el contenido caduca, si puede ser almacenado temporalmente por dispositivos intermedios, etc.
 
 <h1>3)</h1> 
-<h2>¿Cuál es la utilidad e importancia de los enlaces o link entre paginas?</h2>
+<h2>3.a) ¿Cuál es la utilidad e importancia de los enlaces o link entre paginas?</h2>
 
-<h2>¿Qué significa hipertexto?</h2>
+La utilidad de los enlaces es conectar los distintos recursos de la web, y que esten a disposicion del navegante. Sin los enlaces, no podriamos hablar de navegante o de navegacion si estos archivos HTML no estuviesen debidamente conectados entre ellos y con el exterior de cada sitio web por medio de enlaces de hipertexto. En efecto, el atractivo original del HTML en la posible relacion de los contenidos de los archivos introduciendo referencias bajo forma de enlaces que permitan un acceso rapido a la informacion deseada. 
 
-<h2>¿Un link solo puede apuntar a otra página?</h2>
+<h2>3.b) ¿Qué significa hipertexto?</h2>
 
+<h2>3.c) ¿Un link solo puede apuntar a otra página?</h2>
+
+En funcion del destino de los enlaces, son agrupados del siguiente modo:
+
+<ul>
+    <li>Enlaces Internos: los que se dirigen a otras partes dentro de la misma pagina</li>
+    <li>Enlaces locales: los que se dirigen a otras paginas del mismo sitio</li>
+    <li>Enlaces remotos: los dirigidos a otras paginas de otros sitios web</li>
+    <li>Enlaces con direcciones de correo: para crear un mensaje dirigido a una direccion</li>
+    <li>Enlaces con archivos: para que los usuarios puedan hacer download de ficheros</li>
+</ul>
 <h2>¿Qué importancia tiene esto último?</h2>
 
 
