@@ -61,13 +61,13 @@ la importancia radica en la diversidad al tipo de recurso accedido. No solo perm
 
 <h1>4) ¿Cómo funcionan los tags audio y video?</h1>
 
-<h1>5</h1>
+<h1>5)</h1>
 
 <h2>5.a) ¿Qué es el Rendering Engine de un Browser?</h2>
 
-<h2>¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)?</h2>
+<h2>5.b) ¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)?</h2>
 
-<h2>¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?</h2>
+<h2>5.c) ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?</h2>
 
 Bibliografia
 
