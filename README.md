@@ -100,33 +100,12 @@ Un motor de navegador web (motor de renderizado) es software que toma contenido 
 
 <h2>5.b) ¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)?</h2>
 
-<table border="2">
-    <tr>
-        <td>Browser</td>
-        <td>Motor Grafico</td>
-    </tr>
-    <tr>
-        <td>Google Chrome</td>
-        <td>Blink, Gecko</td>
-    </tr>
-    <tr>
-        <td>Firefox, Mozilla</td>
-        <td>Gecko, Servo</td>
-    </tr>
-    <tr>
-        <td>Safari</td>
-        <td>WebKit</td>
-    </tr>
-    <tr>
-        <td>IE-Edge</td>
-        <td>Blink</td>
-    </tr>
-    <tr>
-        <td>Opera</td>
-        <td>Blink</td>
-    </tr>
-</table>
-
+  |  Motor de Renderizado  |         Navegador      |
+  |------------------------|:----------------------:|
+  | WebKit                 |  Safari                |
+  | Blink                  |  Chrome, Opera, Edge   |
+  | Gecko                  |  Firefox               |
+    
 <h2>5.c) ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?</h2>
 
 
