@@ -112,10 +112,10 @@ Cada navegador web cuenta con un motor de renderizado, el cual lleva su propio d
 Para asegurar la compatibilidad y que nuestros proyectos web se comporten correctamente, es necesario conocer el motor de renderizado. De esta forma nuestro desarollo va estar enfocado a un grupo de navegadores sobre el cual, no vamos a asegurar que nuestro codigo va a ser bien interpretado. 
 
 
-Bibliografia
+<h4>Bibliografia</h4>
 
-<h5>Publicacion: "PROGRAMACION WEB Full Stack 1 - Ecosistema Web Desarrollo frontend y backend - Curso Visual y Práctico"</h5>
-<h5>https://books.google.com.ar/books?id=ucQ9DwAAQBAJ&pg=PA5&dq=motor+de+renderizado&hl=es-419&sa=X&ved=0ahUKEwiAvNjI-bPoAhVmGrkGHdU7B48Q6AEIQjAD#v=onepage&q=motor%20de%20renderizado&f=false</h5>
+<h5>Publicacion: "PROGRAMACION WEB Full Stack 1 - Ecosistema Web Desarrollo frontend y backend - Curso Visual y Práctico"
+https://books.google.com.ar/books?id=ucQ9DwAAQBAJ&pg=PA5&dq=motor+de+renderizado&hl=es-419&sa=X&ved=0ahUKEwiAvNjI-bPoAhVmGrkGHdU7B48Q6AEIQjAD#v=onepage&q=motor%20de%20renderizado&f=false</h5>
 
 <h5>https://www.w3schools.com/html/html5_audio.asp</h5>
 <h5>https://www.w3schools.com/html/html5_video.asp</h5>
