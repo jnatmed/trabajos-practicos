@@ -108,9 +108,14 @@ Un motor de navegador web (motor de renderizado) es software que toma contenido 
     
 <h2>5.c) ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?</h2>
 
+Cada navegador web cuenta con un motor de renderizado, el cual lleva su propio desarrollo y establece comptatibilidades con la mayoria de funcionalidades (no todas) que se ejecutan sobre este y pueden ser interpretadas correctamente para mostrar la pagina de manera uniforme. Aun asi, cada motor de renderizado es particular. 
+Para asegurar la compatibilidad y que nuestros proyectos web se comporten correctamente, es necesario conocer el motor de renderizado. De esta forma nuestro desarollo va estar enfocado a un grupo de navegadores sobre el cual, no vamos a asegurar que nuestro codigo va a ser bien interpretado. 
 
 
 Bibliografia
+
+<h5>Publicacion: "PROGRAMACION WEB Full Stack 1 - Ecosistema Web Desarrollo frontend y backend - Curso Visual y Práctico"</h5>
+<h5>https://books.google.com.ar/books?id=ucQ9DwAAQBAJ&pg=PA5&dq=motor+de+renderizado&hl=es-419&sa=X&ved=0ahUKEwiAvNjI-bPoAhVmGrkGHdU7B48Q6AEIQjAD#v=onepage&q=motor%20de%20renderizado&f=false</h5>
 
 <h5>https://www.w3schools.com/html/html5_audio.asp</h5>
 <h5>https://www.w3schools.com/html/html5_video.asp</h5>
