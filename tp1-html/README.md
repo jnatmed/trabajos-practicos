@@ -115,7 +115,7 @@ Para asegurar la compatibilidad y que nuestros proyectos web se comporten correc
 <h2>Dibujar el Wireframe correspondiente a la página principal de lujan.gob.ar y en función a este desarrollar el código HTML5 correspondiente.
 Nota: Realizar una captura en imagen del sitio a fin de poder corregir contrastando con lo que muestra el sitio ese día ya que puede variar.</h2>
 
-Aqui el enlace a la captura en imagen del sitio. <a href="img/img_lujan/captura.jpg"></a> 
+Aqui el enlace a la captura en imagen del sitio. <img src="img/img_lujan/captura.jpg" alt="imagen captura pag lujan"> 
 
 <a href="tp1-punto6_paginaLujan.html">En este enlace esta el codigo que resuelve la consigna</a>
 
