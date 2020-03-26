@@ -115,19 +115,19 @@ Para asegurar la compatibilidad y que nuestros proyectos web se comporten correc
 <h2>Dibujar el Wireframe correspondiente a la página principal de lujan.gob.ar y en función a este desarrollar el código HTML5 correspondiente.
 Nota: Realizar una captura en imagen del sitio a fin de poder corregir contrastando con lo que muestra el sitio ese día ya que puede variar.</h2>
 
-<a href="tp1-punto6_paginaLujan.html">En este enlace esta el codigo que resuelve la congina</a>
+<a href="tp1-punto6_paginaLujan.html">En este enlace esta el codigo que resuelve la consigna</a>
 
 <h1>7</h1>
 <h2>Elabore en HTML5 una página que contenga su currículum vítae, respetando la estructura que se muestra a continuación. Tenga en cuenta que los elementos subrayados son enlaces a páginas web o a direcciones de correo electrónico y que la foto debe ser un enlace a la propia imagen. Determine qué tags con qué atributos son necesarios en cada caso.</h2>
 
-<a href="tp1-punto7_CV.html">En este enlace esta el codigo que resuelve la congina</a>
+<a href="tp1-punto7_CV.html">En este enlace esta el codigo que resuelve la consigna</a>
 
 <h1>8</h1>
 <h2>Elabore el código necesario para representar la siguiente tabla:</h2>
 <img src="img/img_tabla/tabla-ejemplo.png" alt="imagen tabla ejemplo">
 
 
-<a href="tp1-punto8_tabla.html">En este enlace esta el codigo que resuelve la congina</a>
+<a href="tp1-punto8_tabla.html">En este enlace esta el codigo que resuelve la consigna</a>
 
 <h4>Bibliografia</h4>
 
