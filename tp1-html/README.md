@@ -95,8 +95,8 @@ Un motor de navegador web (motor de renderizado) es software que toma contenido 
 
 <ul>
 	<li>a) Los motores de renderizado es lo que usan  los navegadores web, clientes de correo electronico, u otras aplicaciones que deban mostrar contenidos web.</li>
-</ul>
 	<li>b) Los interpretes de javascript o motor de javascript, que aunque cada motor de navegador suele tener su propio interprete javascript no son realmente lo mismo. Mientras que la funcion del motor del navegador es renderizar y pintar la parte grafica de la web, el motor de javascript es el inteprete del codigo y quien ejecuta un script en funcion de unas instrucciones.</li>
+</ul>
 
 <h2>5.b) ¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)?</h2>
 
