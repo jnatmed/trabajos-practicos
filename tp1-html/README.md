@@ -116,7 +116,7 @@ Para asegurar la compatibilidad y que nuestros proyectos web se comporten correc
 Nota: Realizar una captura en imagen del sitio a fin de poder corregir contrastando con lo que muestra el sitio ese día ya que puede variar.</h2>
 
 Este es el wireframe correspondiente a la pagina principal de lujan.
-<img src="img/img_lujan/wireframe-lujan.jpg" alt="imagen wireframe lujan"> 
+<img src="img/img_lujan/wireframeLujan.jpg" alt="imagen wireframe lujan"> 
 
 Captura del sitio web de Lujan
 <img src="img/img_lujan/captura.jpg" alt="imagen captura pag lujan"> 
