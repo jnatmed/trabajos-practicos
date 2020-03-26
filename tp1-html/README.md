@@ -1,6 +1,6 @@
 <h1>1)</h1>
 
-<h2>1.a) ¿Que es un lenjguaje de marcado?</h2>
+<h2>1.a) ¿Que es un lenguaje de marcado?</h2>
 
 Los lenguajes de marcas (tambien llamados lenguajes de marcado) son aquellos que combinan la informacion, generalmente textual, que contiene un documento con marcas o anotaciones relativas a la estructura del texto o a la forma de representarlo. El lenguaje de marcas, es el que especifica cuales serán las etiquetas posibles, donde deben colocarse y el significado que tendra cada una de ellas. Asimismo, la presencia de etiquetas o marcas intercaladas en el contenido hace explicita la estructura del documento o cualquier informacion adicional que se  quiera resaltar. Por otro lado,  hay que tener en cuenta que las propias etiquetas o marcas generalmente no se suelen presentar al usuario final, ya que este suele estar interesado en el propio contenido del documento.Los lenguajes de marcado o lenguajes de marcas se pueden definir como una manera de codificar documentos. 
 
