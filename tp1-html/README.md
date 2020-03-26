@@ -115,13 +115,19 @@ Para asegurar la compatibilidad y que nuestros proyectos web se comporten correc
 <h2>Dibujar el Wireframe correspondiente a la página principal de lujan.gob.ar y en función a este desarrollar el código HTML5 correspondiente.
 Nota: Realizar una captura en imagen del sitio a fin de poder corregir contrastando con lo que muestra el sitio ese día ya que puede variar.</h2>
 
+<a href="tp1-punto6_tabla.html">En este enlace esta el codigo que resuelve la congina</a>
+
 <h1>7</h1>
 <h2>Elabore en HTML5 una página que contenga su currículum vítae, respetando la estructura que se muestra a continuación. Tenga en cuenta que los elementos subrayados son enlaces a páginas web o a direcciones de correo electrónico y que la foto debe ser un enlace a la propia imagen. Determine qué tags con qué atributos son necesarios en cada caso.</h2>
+
+<a href="tp1-punto8_tabla.html">En este enlace esta el codigo que resuelve la congina</a>
 
 <h1>8</h1>
 <h2>Elabore el código necesario para representar la siguiente tabla:</h2>
 <img src="img/img_tabla/tabla-ejemplo.png" alt="imagen tabla ejemplo">
 <h4>Bibliografia</h4>
+
+<a href="tp1-punto8_tabla.html">En este enlace esta el codigo que resuelve la congina</a>
 
 <h5>Publicacion: "PROGRAMACION WEB Full Stack 1 - Ecosistema Web Desarrollo frontend y backend - Curso Visual y Práctico"
 https://books.google.com.ar/books?id=ucQ9DwAAQBAJ&pg=PA5&dq=motor+de+renderizado&hl=es-419&sa=X&ved=0ahUKEwiAvNjI-bPoAhVmGrkGHdU7B48Q6AEIQjAD#v=onepage&q=motor%20de%20renderizado&f=false</h5>
