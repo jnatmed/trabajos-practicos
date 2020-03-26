@@ -111,7 +111,16 @@ Un motor de navegador web (motor de renderizado) es software que toma contenido 
 Cada navegador web cuenta con un motor de renderizado, el cual lleva su propio desarrollo y establece comptatibilidades con la mayoria de funcionalidades (no todas) que se ejecutan sobre este y pueden ser interpretadas correctamente para mostrar la pagina de manera uniforme. Aun asi, cada motor de renderizado es particular. 
 Para asegurar la compatibilidad y que nuestros proyectos web se comporten correctamente, es necesario conocer el motor de renderizado. De esta forma nuestro desarollo va estar enfocado a un grupo de navegadores sobre el cual, no vamos a asegurar que nuestro codigo va a ser bien interpretado. 
 
+<h1>6</h1>
+<h2>Dibujar el Wireframe correspondiente a la página principal de lujan.gob.ar y en función a este desarrollar el código HTML5 correspondiente.
+Nota: Realizar una captura en imagen del sitio a fin de poder corregir contrastando con lo que muestra el sitio ese día ya que puede variar.</h2>
 
+<h1>7</h1>
+<h2>Elabore en HTML5 una página que contenga su currículum vítae, respetando la estructura que se muestra a continuación. Tenga en cuenta que los elementos subrayados son enlaces a páginas web o a direcciones de correo electrónico y que la foto debe ser un enlace a la propia imagen. Determine qué tags con qué atributos son necesarios en cada caso.</h2>
+
+<h1>8</h1>
+<h2>Elabore el código necesario para representar la siguiente tabla:</h2>
+<img src="img/img_tabla/imagen-tabla.png/" alt="imagen tabla ejemplo">
 <h4>Bibliografia</h4>
 
 <h5>Publicacion: "PROGRAMACION WEB Full Stack 1 - Ecosistema Web Desarrollo frontend y backend - Curso Visual y Práctico"
