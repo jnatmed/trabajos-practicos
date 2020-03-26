@@ -120,7 +120,7 @@ Nota: Realizar una captura en imagen del sitio a fin de poder corregir contrasta
 
 <h1>8</h1>
 <h2>Elabore el código necesario para representar la siguiente tabla:</h2>
-<img src="img/img_tabla/imagen-tabla.png" alt="imagen tabla ejemplo">
+<img src="img/img_tabla/tabla-ejemplo.png" alt="imagen tabla ejemplo">
 <h4>Bibliografia</h4>
 
 <h5>Publicacion: "PROGRAMACION WEB Full Stack 1 - Ecosistema Web Desarrollo frontend y backend - Curso Visual y Práctico"
